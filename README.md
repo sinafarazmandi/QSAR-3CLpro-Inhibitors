@@ -18,12 +18,12 @@ This project was carried out with academic purposes as a final project for Drug 
   • The BRGNN model excelled among nonlinear methods with R²(CV) = 0.88534.
 
 **Technologies & Libraries:** <br />
-  • Software: HyperChem, DRAGON, MATLAB, and Python. <br />
+  • Software: HyperChem, DRAGON, and MATLAB. <br />
   • Libraries: libPLS, ARESLab.
 
 **How to Use:** <br />
   • Clone the repository and load the provided dataset. <br />
-  • Execute preprocessing scripts for descriptor analysis. <br />
+  • Execute preprocessing scripts. <br />
   • Run the modeling scripts to generate results.
 
 **References:**
