@@ -2,7 +2,7 @@
 
 **Description:** <br />
 This work explores the quantitative structure-activity relationship (QSAR) of 9,10-dihydrophenanthrene derivatives as potential inhibitors of the SARS-CoV-2 3CLpro enzyme, a key target for COVID-19 treatment. The study employs advanced computational tools and statistical modeling techniques to predict inhibitory activity of the chemical structures. <br />
-This project was carried out with academic purposes as a final project for Drug Design MSc course at Tarbiat Modares University, Tehran, Iran, June 2022.
+This project was carried out with academic purposes as a final project for the Drug Design MSc course at Tarbiat Modares University, Tehran, Iran, June 2022.
 
 **Key Features:** <br />
   • Dataset Preparation: Compiled from a peer-reviewed study [1], including molecular descriptors generated using DRAGON and HyperChem softwares from a total of 47 molecules. <br />
