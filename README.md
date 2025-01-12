@@ -27,7 +27,7 @@ This project was carried out with academic purposes as a final project for the D
   • Run the modeling scripts to generate results.
 
 **References:**
-[1] Zhang, R., et al. (2021). QSAR Study of 9,10-Dihydrophenanthrene Derivatives as SARS-CoV-2 3CLpro Inhibitors. European Journal of Medicinal Chemistry, 223, 114030. https://doi.org/10.1016/j.ejmech.2021.114030
+[1] Zhang, J., Xiong, Y., Wang, F., Zhang, F., Yang, X., Lin, G., Tian, P., Ge, G., & Gao, D. (2021). Discovery of 9,10-dihydrophenanthrene derivatives as SARS-CoV-2 3CLpro inhibitors for treating COVID-19. European Journal of Medicinal Chemistry, 228, 114030. https://doi.org/10.1016/j.ejmech.2021.114030
 
 
 
